@@ -1,0 +1,1 @@
+require('../css/main2.less')
